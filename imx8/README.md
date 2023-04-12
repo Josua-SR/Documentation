@@ -3,14 +3,14 @@
 ## i.MX8M Plus
 
 - **Debian**
-  - [Bullseye - SR Release 9 (latest)](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr9.md)
-  - [Bullseye (testing) - SR Release 8](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr8.md)
-  - [Bullseye (testing) - SR Release 7](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr7.md)
-  - [Bullseye (testing) - SR Release 6](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr6.md)
-  - [Bullseye (testing) - SR Release 5](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr5.md)
-  - [Bullseye (testing) - SR Release 4](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr4.md)
-  - [Bullseye (testing) - SR Release 3](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr3.md)
-  - [Bullseye (testing) - SR Release 2](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr2.md)
+  - [Bullseye - SR Release 9 (latest)](debian-11_sr9)
+  - [Bullseye (testing) - SR Release 8](debian-11_sr8)
+  - [Bullseye (testing) - SR Release 7](debian-11_sr7)
+  - [Bullseye (testing) - SR Release 6](debian-11_sr6)
+  - [Bullseye (testing) - SR Release 5](debian-11_sr5)
+  - [Bullseye (testing) - SR Release 4](debian-11_sr4)
+  - [Bullseye (testing) - SR Release 3](debian-11_sr3)
+  - [Bullseye (testing) - SR Release 2](debian-11_sr2)
 - **Buildroot based**
   - [Buildroot based mini distribution - Source code](https://github.com/SolidRun/imx8mp_build)
   - [Buildroot based mini distribution - Ready to boot images](https://images.solid-run.com/IMX8/imx8mp_build)
@@ -39,19 +39,19 @@
   - [5.4.47 (latest)](https://github.com/SolidRun/linux-stable/tree/linux-5.4.y-imx8)
   - [4.19.35](https://github.com/SolidRun/linux-stable/tree/linux-4.19.y-imx8)
 - **Debian**
-  - [Bullseye (testing) - SR Release 8 (latest)](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr8.md)
-  - [Bullseye (testing) - SR Release 7](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr7.md)
-  - [Bullseye (testing) - SR Release 6](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr6.md)
-  - [Bullseye (testing) - SR Release 5](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr5.md)
-  - [Bullseye (testing) - SR Release 4](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr4.md)
-  - [Bullseye (testing) - SR Release 3](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr3.md)
-  - [Bullseye (testing) - SR Release 2](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr2.md)
-  - [Bullseye (testing) - SR Release 1](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr.md)
+  - [Bullseye (testing) - SR Release 8 (latest)](debian-11_sr8)
+  - [Bullseye (testing) - SR Release 7](debian-11_sr7)
+  - [Bullseye (testing) - SR Release 6](debian-11_sr6)
+  - [Bullseye (testing) - SR Release 5](debian-11_sr5)
+  - [Bullseye (testing) - SR Release 4](debian-11_sr4)
+  - [Bullseye (testing) - SR Release 3](debian-11_sr3)
+  - [Bullseye (testing) - SR Release 2](debian-11_sr2)
+  - [Bullseye (testing) - SR Release 1](debian-11_sr)
 
 ## i.MX8M Nano
 
 - **Debian**
-  - [Bullseye - SR Release 10 (latest)](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr10.md)
+  - [Bullseye - SR Release 10 (latest)](debian-11_sr10)
 - **Buildroot based**
   - [Buildroot based mini distribution - Source code](https://github.com/SolidRun/imx8mp_build/tree/imx8mn)
   - [Buildroot based mini distribution - Ready to boot images](https://images.solid-run.com/IMX8/imx8mn_compact_build)
@@ -63,4 +63,4 @@
 - **Linux**
   - [4.19.35 (latest)](https://github.com/SolidRun/linux-stable/tree/linux-4.19.y-imx8)
 - **Debian**
-  - [Bullseye (testing) - SR Release 1 (latest)](https://github.com/SolidRun/documentation/blob/bsp/imx8/debian-11_sr.md)
+  - [Bullseye (testing) - SR Release 1 (latest)](debian-11_sr)

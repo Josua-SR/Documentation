@@ -1,7 +1,7 @@
 # SolidRun BSPs for CN913x
 
 - **Debian**
-  - [Bullseye - SR Release 1 (latest)](https://github.com/SolidRun/documentation/blob/bsp/cn913x/debian-11_sr1.md)
+  - [Bullseye - SR Release 1 (latest)](debian-11_sr1)
 - **Ubunto 20.04**
   - [SolidRun's CN913x products build scripts based on Ubunto](https://github.com/SolidRun/cn913x_build)
 - **U-Boot**
